@@ -1,0 +1,9 @@
+section {
+	color: #399;
+}
+
+@media (min-width: 600px) {
+  p {
+    color: red;
+  }
+}
